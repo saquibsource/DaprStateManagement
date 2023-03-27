@@ -1,8 +1,6 @@
 ﻿namespace Dapr.Sample.WebApi.Models
 {
-    /// <summary>
-    /// Class representing an Account for samples.
-    /// </summary>
+   
     public class Account
     {
         /// <summary>
